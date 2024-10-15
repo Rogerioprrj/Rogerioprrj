@@ -5,12 +5,6 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Rogerioprrj.Rogerioprrj&"  />
 </div>
 
@@ -48,28 +42,16 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <br><br>
-<p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça .<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+<p align="left">Olá! Meu nome é Rogério Pereira Ramos de Mello. No momento, estou trabalhando com Auditoria Contínua no Grupo Fleury, onde utilizo análise de dados para monitorar processos de auditoria. Além disso, estou estudando Machine Learning para expandir minhas habilidades na área de ciência de dados.</p> <p align="left"> 🦄 Linguagens: Python </p> 
+<p align="left"> 💼 Ferramentas: Pandas, Python, Google Cloud, Selenium, NumPy, MySQL, NetworkX </p>
+<p align="left">
+  💌 Gostou do perfil? Acompanhe mais meu trabalho ⤵️
 </p>
 
 <p align="left">
-  🦄 Linguagens: Python
-</p>
-
-<p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
-</p>
-
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
-
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCJftMDNxlXMxLfdcqpdlWDfMCHMBLHNRwNBBRmwpsTQThxHbfqmNQDwmtTsnsXFfPLGKKML" alt="Gmail"/></a>
+<a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCJftMDNxlXMxLfdcqpdlWDfMCHMBLHNRwNBBRmwpsTQThxHbfqmNQDwmtTsnsXFfPLGKKML" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/> </a>
   <a href="https://www.linkedin.com/in/rogerio-pereira-5a472b246/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/> </a>
 </p>
 <br><br>
