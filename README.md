@@ -42,11 +42,10 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <br><br>
-<p align="left">Olá! Meu nome é Rogério Pereira Ramos de Mello. No momento, estou trabalhando com Auditoria Contínua no Grupo Fleury, onde utilizo análise de dados para monitorar processos de auditoria. Além disso, estou estudando Machine Learning para expandir minhas habilidades na área de ciência de dados.</p> <p align="left"> 🦄 Linguagens: Python </p> 
-<p align="left"> 💼 Ferramentas: Pandas, Python, Google Cloud, Selenium, NumPy, MySQL, NetworkX </p>
-<p align="left">
-  💌 Gostou do perfil? Acompanhe mais meu trabalho ⤵️
-</p>
+<p align="left">  No momento, estou trabalhando com Auditoria Contínua no Grupo Fleury, onde utilizo programaçãp para processos de automação e detecção de fraudes.</p> 
+<p align="left"> 🦄 Linguagens: Python </p> 
+<p align="left"> 💼 Ferramentas: Pandas, Google Cloud, Selenium, NumPy, MySQL, NetworkX </p>
+<p align="left"> 💌 Gostou do perfil? Acompanhe mais meu trabalho ⤵️</p>
 
 <p align="left">
 <a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCJftMDNxlXMxLfdcqpdlWDfMCHMBLHNRwNBBRmwpsTQThxHbfqmNQDwmtTsnsXFfPLGKKML" title="Gmail">
