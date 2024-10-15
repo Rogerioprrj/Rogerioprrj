@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Olá, me chamo Rogério e criei esse git para divulgar meus projetos.<br><br>- 🔭Estou trabalhando em Auditoria Contínua<br>- 📚 Estou estudando Machine Learning</p>
+<p align="left">Olá, me chamo Rogério e criei esse git para divulgar meus projetos.<br><br>- 🔭Estou trabalhando em Auditoria Contínua<br>- 📚 Estou estudando Machine Learning<br>- 🎓 Formando em Ciência de Dados - UFABC</p> 
 
 ###
 
