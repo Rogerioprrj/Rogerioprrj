@@ -45,7 +45,7 @@
 <p align="left">  No momento, estou trabalhando com Auditoria Contínua no Grupo Fleury, onde utilizo programaçãp para processos de automação e detecção de fraudes.</p> 
 <p align="left"> 🦄 Linguagens: Python </p> 
 <p align="left"> 💼 Ferramentas: Pandas, Google Cloud, Selenium, NumPy, MySQL, NetworkX </p>
-<p align="left"> 💌 Gostou do perfil? Acompanhe mais meu trabalho ⤵️</p>
+<p align="left"> 💌 Gostou do perfil? Acompanhe meu trabalho ⤵️</p>
 
 <p align="left">
 <a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCJftMDNxlXMxLfdcqpdlWDfMCHMBLHNRwNBBRmwpsTQThxHbfqmNQDwmtTsnsXFfPLGKKML" title="Gmail">
