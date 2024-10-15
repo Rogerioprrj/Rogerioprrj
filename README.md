@@ -42,7 +42,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <br><br>
-<p align="left">  No momento, estou trabalhando com Auditoria Contínua no Grupo Fleury, onde utilizo programaçãp para processos de automação e detecção de fraudes.</p> 
+<p align="left">  No momento, estou trabalhando com Auditoria Contínua no Grupo Fleury, onde utilizo programação para processos de automação e detecção de fraudes.</p> 
 <p align="left"> 🦄 Linguagens: Python </p> 
 <p align="left"> 💼 Ferramentas: Pandas, Google Cloud, Selenium, NumPy, MySQL, NetworkX </p>
 <p align="left"> 💌 Gostou do perfil? Acompanhe meu trabalho ⤵️</p>
